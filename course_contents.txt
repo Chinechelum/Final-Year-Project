@@ -1,0 +1,325 @@
+Introduction to Computer Science for Other Faculties (2 units)
+Meaning of Computer science as a discipline, Concepts of hardware and software;
+basic subsystems of a digital computer; characteristics of a digital computer;
+devices/media; types/classes of computer emphasizing the PC; history of computers;
+problem-solving: algorithm, flowchart, pseudo code, program/data; running a
+program; programming: introduction to Java/BASIC programming language syntax
+and programming = COS101$
+
+Computing Practice (2 units)
+Simple programming exercises; control structures; functions, arrays, storage classes,
+pointers, enumeration types, C++ classes; Other object-oriented principles; reference types,
+function overloading, copy constructor, template classes, inheritance, virtual functions,
+virtual base classes, exception handling using object-oriented principles. = COS102$
+
+Computer Hardware Organization (2 units)
+Organization and function of control unit (cu), arithmetic-logic unit (au), registers; bus
+structures and communication between CPU, memory and peripheral devices; Number
+systems: conversion between bases (binary, octal, decimal, hexadecimal); Binary
+arithmetic; weighted and non-weighted binary codes; 1’s and 2’s complement
+operation methods; Introduction to machine language; data and instruction formats. = COS103$
+
+Introduction to Database System (2 units)
+Introduction to databases; database design and creation using a database management system.
+Functions of a database; uses in business and industry. Introduction to the following: data
+dictionaries, normalization, data integrity, data modeling, and creation of simple tables,
+editing a database, queries, reports, and forms using SQL. = COS104$
+
+Introduction to Computer Science for Physical Sciences (2 units)
+Concepts of hardware and software; basic subsystems of a digital computer;
+characteristics of digital computer; devices/media. Types/classes of computer
+emphasizing the PC; History of computers. Problem-solving: algorithm, flowchart,
+pseudo code, program/data, running a program; Programming: introduction to
+Java/BASIC programming language syntax and programming; Booting and shutdown;
+Types of operating system; User interface; managing information, computer malware
+(virus, etc.); computer network; Internet and web usage, e-mail; instant-messaging
+etc; Office applications; use of a statistical package and a database management
+system. = COS105$
+
+Computer Programming (2 units)
+An IDE; The java virtual machine, Writing a java program, packages, simple Java programs;
+Data types; Control constructs; Classes; Keyboard Input, File I/O Using Byte Streams,
+Character Streams, File I/O Using Character Streams, Buffered Streams, File I/O Using a
+Buffered Stream, Keyboard input, file I/O using byte stream using a Buffered Stream,
+Writing Text Files in Java, Introduction, The File Class, Standard Streams. = COS201$
+
+Software Engineering I (2 units)
+Basic concept of software engineering, software development process: problem
+analysis, requirement gathering, design, implementation, testing and maintenance,
+choice of programming language; Object Oriented Analysis and Design (OOAD);
+Implementation of model/non-model based engineering processes. = COS202$
+
+Introduction to Microcomputer Systems (2 units)
+Introduction to microprocessor systems; Functional description of different
+microprocessor architectures; system operation and interfacing; basic memory
+decoding and interfacing, types of instructions and instruction format;
+Microprocessors in instrumentation and control; Microcomputer-based A/D and D/A
+converters; Design, construction, programming and testing of microprocessor control
+systems. A practical microcomputer-based system design should be produced by each
+student; = COS203$
+
+Introduction to Digital System Design (2 units)
+Boolean algebra; gates, gating devices, combinational logic, sequential logic, methods
+of synthesis and minimization of combinational circuits; Designs with multiplexers
+and demultiplexers, PLI, Memories: latch, flip-flop, shift-register, RAM and ROM,
+Cache as well as microprocessors. = COS204$
+
+Assembly Language Programming (2 units)
+Practical examples of machine code (instruction) e.g. hand coding, assembly code and
+assembler usage; Types of assembler; Dump of machine language; Listing of
+machine/assembly language from high-level language; Format of PC assembly
+language instructions; Microinstruction formats; Segmentation and linkage;
+Subroutine, device (e.g., mouse, keyboard) control; running simple assembly language
+program using a common microprocessor and debugger. = COS231$
+
+Data Structure (2 units)
+Primitive data types; data structures: array, record, strings, list; String processing;
+Data representation in memory: Static and heap allocation; Runtime storage management, pointers and references; Implementation strategies for stack, queue, and
+hash table, graph and tree; Choosing the right data structure; High-level language data
+types and data-handling facilities. = COS232$
+
+ Data and Computer Communications (2 units)
+Introduction: data and information, data processing system, data communication systems,
+signals; Introduction to analog and digital Time and frequency domain concepts, Fourier
+Transform. Introduction to Analog and digital signals, A/D conversions, Fourier series,
+measure of communication channel, characteristics, Nyquist and Shannon information
+capacity, transmission media, noise and distortion, modulation and demodulation,
+multiplexing and demultiplexing, synchronous and asynchronous data transmission; Error
+detection and control techniques. = COS242$
+
+ Computer Applications (2 units)
+Booting and shutdown; User interface; Types of operating system; managing
+information, computer malware (virus, etc.); word processing; presentations; Internet
+and Web usage; e-mail; instant-messaging etc; Spreadsheet analysis (statistical
+applications e.g. SPSS, Excel, etc); use of a statistical package and a database
+management system. = COS304$
+
+Switching Algebra and Discrete Structures (3 units)
+Boolean algebra; Combinational and sequential circuits/designs; Directed graphs, cycles
+connectivity; Finite State Machine; State transition graphs, ASM charts, Graph and network
+related problems; Algebraic systems: group, homomorphism, congruence; Applications to
+machine structures, correctness proof. = COS311$
+
+Operating Systems (3 units)
+Introduction to processes; Anatomy of a simple operating system (e.g. DOS);
+processor management; memory management, protection; Types of operating system;
+Multi-programming concepts and requirements, multi-tasking, real-time, multiprocessing systems; issues based on semaphore and monitor concepts; Installation and
+optimization of 16-bit, 32-bit and 64-bit operating systems. Linux file system; shell
+programming; filters and pipelines; Virtual memory. Anatomy of a multi-user
+operating system (e.g. Linux, Windows); Device drivers; OS interaction with devices;
+event-driven execution. = COS331$
+
+Software Engineering II (2 units)
+Requirement engineering, systems model, process models, DFDS, state transition, state charts,
+Data models, ER modeling, object-oriented modeling using UML, software verification and
+validation, software testing; software quality assurance; Programming environments,
+requirement analysis and design modeling tools, testing tools, tool integration mechanism. = COS333$
+
+ Automata Theory and Formal Languages (2 units)
+Basic set theory; function; alphabet, string, string concatenation, definition of an automaton;
+Classes of automata: deterministic, non-deterministic automata; Grammar; Types of
+grammar: context-free and context-sensitive; Formal languages; Regular expression; Turing
+machine. = COS335$
+
+ Artificial Intelligence I (2 units)
+Introduction to artificial intelligence; Problem formulation and search: heuristic search,
+production system; Semantic network and frame; Propositional logic: first order predicate
+logic, fuzzy logic; Other methods for reasoning; An Introduction to pattern recognition;
+Multilayer neural networks; Self-organizing neural networks = COS337$
+
+ Computer Architecture (3 units)
+Basic logic design, data representation, instruction formats, basic computer
+organization and design; CPU design: functional organization and implementation of
+simple data paths, control units; hardwired realization versus micro- programmed
+realization, instruction pipeline, memory systems; memory organization; multipleprocessor systems; general characteristics of memories; memory operations; Magnetic
+recording; semi-conductor memory, charged-coupled devices, magnetic bubbles;
+Memory addressing; memory hierarchy, virtual memory; Control systems, hardware
+control, micro-programmed control, asynchronous control, I/O control; Introduction to
+fault-tolerance computing. = COS341$
+
+ Laboratory for Digital System Design (3 units)
+General instrumentation, Use of meter in DC and in AC measurements; rectifiers,
+electrodynamometer and wattmeter, instrument transformers; Oscilloscope; Square
+wave, pulse, signal and function generators, wave analyzers; Logic probes/analyzers;
+Troubleshooting; Analyzing electronic circuits; Implementation of digital logic
+circuits. = COS351$
+
+ Numerical Methods (3 units)
+Techniques for the computer implementation (i.e. implementation of the algorithms)
+of the following: Interpolation; approximation; numerical integration and
+differentiation; solution of non-linear equations; solution of ordinary differential
+equations; introduction to partial differential equations. Floating-point arithmetic; use
+of mathematical subroutine packages; error analysis and norms; computation of eigen
+values and eigenvectors, related topics; numerical solution of boundary-value
+problems for ordinary differential equations, solution of non-linear systems of
+algebraic equations; least-squares solution of over-determined systems. Not just their
+mathematical solutions. = COS411$
+
+ System Modeling and Simulation (2 units)
+Basic modelling and simulation concepts and definitions; Random numbers:
+pseudorandom number generation and testing; Monte Carlo methods; Statistics for
+Modeling and Simulation; Introduction to distribution functions; Simulation – discrete
+and continuous event simulation; Modeling methods: visual models and Conceptual
+models; Simple theories of Queues, stochastic processes; Design of simulation
+experiments; Simulation languages and detailed study of a chosen simulation
+language; applications; Lab exercises; Data collection, coding, clearing-completeness;
+range consistency; Case studies and interpretation of results. = COS413$
+
+ Computer Process control (2 units)
+General overview of industrial process control, Importance of process control (PC), PC types, control
+theory basis, components of control loops and ISA symbols, signals, sensors, transducers, indicators,
+Recorders, Controllers, Actuators , Controller Algorithms, PC Loops, Advanced control loops:
+cascaded control, Batch control, Ratio control, Selective Control and Fuzzy control. Defect prevention
+process, process assessments, process capability and maturity levels, signals and process metrics.
+Process control technique, specific examples of process controllers. Process control computer;
+operating modes, best practice standards and software case studies. = COS415$
+
+ Computer System Performance Evaluation (2 units)
+Performance measurement techniques, simulation techniques, analytic techniques,
+work-load characterization, performance evaluation in selected problems,
+performance evaluation in design problems; evaluation of program performance. = COS417$
+
+ Operation Research (3 units)
+Linear programming (formulation and graphic solution, simplex method),
+transportation problems; Network Analysis; Project Scheduling Models (PSM and
+PERT); Game Theory; Inventory problems; Reliability problems; Dynamic
+programming. Network scheduling models (PERT & CPM). = COS419$
+
+ Database Design and Management (3 units)
+Foundations of database technologies; Basic concepts; Database structure; Data
+description and manipulation languages; SQL; Database management system;
+Functions and components of DBMS. File design and access path. Data models;
+Normalization; Database connection in Linux/mysql and Windows/Access; Database
+access from a programming language. Practical exercises using a standard DBMS.
+Analysis of Open Database Connectivity standard; Stored-procedure; Object-oriented
+Relational Database Management Systems (e.g. Oracle) should be studied and used.
+Data Modeling and Relational Database Design including the use of Entity
+Relationship (ER) modeling using practical examples. Report generation. DBMS
+terminology and concepts, Transaction Management, concurrency and recovery;
+Physical design issues. Database Administrator Functions. = COS421$
+
+ Algorithms (2 units)
+Efficiency analysis of algorithm; Asymptotic notations; Algorithm strategies: Brute
+force, greedy, divide and conquer, recursive, backtracking, dynamic programming,
+heuristics, reduction (transform and conquer); Implementation of data structure. = COS431$
+
+ Compiler Construction (3 units)
+Programming language syntax, semantics and pragmatics; Overview of translators;
+compilers, assemblers and interpreters; Phases of compilation; Structure of a
+compiler; Lexical analysis, syntax analysis, expression analysis, code generation, code
+optimization, error detection and recovery; Grammar and language; Construction of
+scanner and parser; Internal representation of a program; Recognizers, top-down and
+bottom-up; run-time storage organization, LR grammar and analyzers; construction of
+LR grammar and analyzer; construction of LR table. Organization of symbol tables;
+Translator writing systems. = COS434$
+
+ Computer Graphics and Animation (2 units)
+Fundamental concepts in graphics: (Hierarchy of graphics, hardware and software
+components: Raster and Vector graphics systems, video display devices, physical
+system. Application Program Interface (API), simple color models (RGB, CMYK):
+Coordinates system, Two- and three- dimensional transformations (Scaling, rotation,
+translation); perspectives, clipping algorithms, hidden lines removal, Bolden surface
+removal. Warnock’s method, shading; Curve synthesis and fitting, Contouring.
+Organization of interactive graphics; Graphics system: Visual computing- (Computer
+graphics, visualization, virtual reality, computer vision). Use visual graphics software
+for demonstration e.g. Visual BASIC, Visual JAVA; Animation: 2-D, 3-D dynamics,
+solid objects and interference, Scene generation. Surface Treatment. Ray tracing,
+radiosity, rendering. New developments. = COS435$
+
+ Expert Systems (2 units)
+Overview of expert systems; Structure of expert system; Construction of expert
+systems; Expert system shell and other tools for building expert systems, Evaluation
+of expert systems performance; Languages and tools of knowledge engineering etc;
+Case study of an expert system. = COS436$
+
+ Project Management (2 units)
+Project and project life cycle; Project management processes; Structured project
+management; Work breakdown structures (WBS): developing WBS, using
+WBS to estimate effort and cost; Project scheduling: developing schedules,
+network diagrams, PERT and CPM, Gantt chart, using schedules to monitor and
+control projects; Resources and resource planning; Cost planning and
+budgeting; Change management; Project risk management; Ethical and
+commercial issues in project management. = COS437$
+
+ Artificial Intelligence II (2 units)
+Review of prepositional and predicate logic, Resolution and theorem proving, Nonmonotonic inference, probabilistic reasoning, Bayes’ theorem, Natural language
+processing (information retrieval, language, translation, speech recognition). Machine
+learning (Definition and examples, supervised learning, learning, decision trees
+learning, neural networks, the nearest neighbour algorithm, learning theory, the
+problems of overfitting, unsupervised learning, reinforcement learning). Introduction
+to Robotics: (Overview, configuration, planning, sensing, programming, navigation
+and control). Expert systems; Introduction to PROLOG, LISP or any other AI
+programming language. = COS438$
+
+ Games Programming (2 units)
+Overview of Windows Programming, Overview of COM and DirectX, Mathematics of
+Rendering 3D Objects, Vectors and Matrices, Matrix Multiplication, Translation, Rotation,
+Scaling, View, Projection, Direct3D - Display Modes, Sprites and Fonts, Vertices and
+Transformation Matrices, Textures, Depth Buffers, Lighting. DirectX Audio - DirectSound
+Playback, DirectSound 3D Effects, Overview of DirectMusic. DirectInput - Mouse
+Input, Joystick Input, Keyboard Input, Introduction to OpenGL. = COS439$
+
+ Advanced Computer Networks (3 units)
+Computer network: LANs, WANs, MANs, SANs, CNs, Intranets, Extranets and
+Internets, network topologies, communication protocol; OSI reference model and
+protocol, network technologies (Ethernet, Token ring, FDDI); Internetworking devices
+(bridges, routers, repeaters, hub, gateways, switches etc.); Data switching
+principles/circuit, message, packet; Design of a wide area network infrastructure;
+Analysis of quality of service, congestion, bandwidth, performance trade-off;
+LAN/WAN design issues; Wireless technologies: narrow band, spread spectrum, infra
+red Bluetooth, etc; Architecture of VSAT and GSM networks. VPNs. = COS441$
+
+ Mobile Communication (2 units)
+Fundamentals of mobile communications: Basic digital communication theory; Spread
+spectrum communications and CDMA, OFDM and OFDMA; MIMO and Cooperative
+Communications; Elementary theory of wireless networks; ,Mobile communication systems ;
+Mobile communication engineering, GSM, GPRS, and EDGE, 3GPP Systems, WCDMA,
+HSPA, TD-SCDMA, Wireless LAN and Wireless PAN, WiMAX, 3GPP LTE and LTE-A) ;
+Future Wireless. = COS442$
+
+ Computer Network Security (2 units)
+Foundational concepts in security: risk threats, vulnerability, advanced requirements of
+security; Human factors and security: ethics, regulatory environment, compliance and identity
+management, social engineering; Principles of secure design: isolation, fail/safe, open, end to
+end security; Method of defence: security services, model of inter-network security,
+cryptographic algorithms, public and private keys, Brute force attack and network security,
+traffic analysis; Special attack types: DOS, buffer, overflows etc. = COS444$
+
+ Advanced Digital Laboratory (3 units)
+Understanding and troubleshooting computer hardware circuits: motherboard,
+monitor, printer, drive, card, power supplies etc. Modern PC assembling and
+disassembling; Hardware and software installations; Input/Output ports, Hard disk
+drives, floppy disk drives, motherboards, memories and troubleshooting of digital
+circuits using standard equipment. Implementation of specific projects in the
+microprocessor laboratory. = COS452$
+
+ Organization of Programming Languages (2 units)
+Overview of programming languages; Brief survey of programming paradigms
+(Procedural languages, Object-oriented languages, Functional languages, Declarativenon-algorithmic languages, Scripting languages), comparative analysis of
+programming languages, the effects of scale on programming methodology; Language
+Semantics (Information semantics, Overview of formal semantics; Denotational
+semantics; Axiomatic semantics; Operational semantics); The concept of types,
+Declaration models (binding, visibility, scope, and lifetime), Overview of typechecking, Garbage. = COS461$
+
+ Structured Programming (2 units)
+Structured programming concepts; Object-oriented programming; Invariant relation of
+a loop; Nassi-Sheidermann model; stepwise refinement; Program modularization
+(bottom-up approach, top-down approach, nested virtual machine approach);
+Language features for structured programming; Practical illustration of above
+concepts using a RAD, e.g., Visual Basic; Graphical User Interface (GUI) concepts;
+Event-driven programming; Time manipulation; graphics; multimedia; device control,
+Students learn programming concepts using a project-centred approach. = COS463$
+
+ Concurrent Programming (2 units)
+Rationale for concurrent programming; Thread analysis; system components,
+hardware features, basic software; operating system nucleus/kernel; user interface,
+command and control language, job control; elements of design methodology, parallel
+algorithms, issues in parallelism, language features for concurrent programming;
+Hardware features; concurrent programming languages. = COS464$
+
+ Web Application Development (2 units)
+Introduction to client-server, common gateway interfaces. Common web development
+problems and solution using server-side and client-side scripting techniques. Practical
+design and development of web pages using industry-standard scripting languages;
+XHTML, PHP, Perl; Creation of dynamic web pages. Web standards/technologies;
+Web2.0, XML, SOAP, web services, etc. = COS471$
