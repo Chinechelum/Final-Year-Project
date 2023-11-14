@@ -1,0 +1,120 @@
+Network Design
+Digital Signal Processing
+Mobile and Adaptive Systems
+Internet Technology
+Network Administration and Management
+Advanced Topics in Computer Network
+Network Programming
+Network Performance Evaluation
+Wireless and Ad-hoc Networks
+Network Security
+
+
+Requirements, planning, and choosing technology: System requirements, traffic sizing
+characteristics time and delay consideration. Traffic Engineering and Capacity planning:
+Background (Throughput calculations), Traffic engineering basics (Traffic characteristics),
+Traditional Traffic engineering, Queued data and packet switched traffic modeling,
+Designing for peaks, Delay or Latency, Availability and reliability, Capacity planning and
+Network vision, Design tool, Categories of tools, Classes of design tool, Components of
+design projects, Types of design projects. Technology Comparisons: Circuits-messagepacket and cell switching methods, Packet switching service aspects, Generic packet
+switching network characteristics, Private verses public networking, Public network service
+selection, Business aspects of Packet-Frame and cell switching services, High speed LAN
+protocols comparisons, Application performance needs. Access Network Design: Network
+design layers, Access layer design, Access network capacity, network topology and
+hardware, completing the access network design. Backbone Network Design: Backbone
+requirements, Network capacities, Topologies, Topologies strategies, Tuning the network.
+
+Introduction; brief review of analogue and digital signal processing systems, discrete time
+linear time-invariant signal processing systems; design of finite impulse response digital
+filters, introduction to z-transforms and infinite Impulse response type discrete time filters
+design of infinite impulse response type digital filters using analogue filter approximations;
+digital processing of analogue signals and other data, introduction to the discrete Fourier
+transform.
+
+Introduction and overview; properties of wireless: PANs and WANs: Ad-hoc and
+infrastructure networks; physical constraints and limitations (transmission and reception),
+network structures and architectures, including hand-off and mobility support at the
+physical/link level; example technologies at the physical/link layers; PANS Bluetooth, LANs
+IEEE802.11 HiperLAN, basic GSM and GPRS network structures and protocol architectures,
+next generation wireless overview including UMTs, IMT-2000 and W-CSMA; mobile IP;
+mobilePv4 and mobileIPv6, problems. With routine, quantity of service and security,
+overview of use of intelligence in mobile systems and power management issues; file
+systems: CODA and the like and mobile infrastructures support. Adaptive and reconfigurable systems, mobile multimedia and its relationship to proxying, context sensitive
+applications, ubiquitous computing, pervasive computing and ambient networking, overlay
+networks and vertical hand-offs, programmable networking and applications for mobile
+systems, code mobility and control/signaling.
+
+Introduction to Internet, standards and specifications; survey of contemporary internet
+technologies; Current Internet tools; Designing and publishing a web server; www
+programmed markup languages: Using alternative protocols in www, Adding multimedia
+features to www; Server side programming, client programming and database programming
+for the web; Security and Privacy.
+
+The rules governing IP address classes and netmasks, Configuring the resolver library to
+arrange for TCP/IP name service, Bringing interfaces up and down, and set their IP addresses
+and netmasks, Setting the default route in the kernel routing table. Understanding the
+significance of the /etc/services file and well-known port numbers, Configuring the inet
+daemon, Using telnet to contact servers directly, using the ping command to test network
+connectivity, netstat command to examine kernel tables pertaining to networking, trace-route
+command to discover network paths, tcpdump to examine all network traffic. Methods used
+to bring interfaces up and down. Basics of configuring and using the Domain Name Service,
+sendmail, the Network Information System, Network File System: Structure and function of
+the Domain Name Service (DNS), Setting up a Linux machine to function as a DNS server,
+Configuring and using sendmail, Setting up an NIS domain with an NIS master server and
+NIS clients.
+
+Data Communications: Business Drivers and Networking Directions : Data communication
+Past and future. Understanding the standards and their maker: Creating standards: players
+and Process, Current forums, Standard protocols, Layered reference models: The OSIRM,
+Standard computer architectures. Introduction to Transmission Technologies: Hardware
+selection in the design process. Optical Networking: SONET/SDH standards, Dense
+wavelength division multiplexing (DWDM), Performance and Design considerations.
+Physical Layer Protocols and Access Technologies: Physical Layer
+Protocols and Interfaces, Accessing the Network, Copper access technologies, Cable Access
+Technologies, Fiber Access Technologies, Air Access Technologies. Common Protocols
+and Interfaces in the LAN environment: Data link layers protocols, LLC and MAC sub
+layer protocol, Ethernet, Token Ring, Token Bus and FDDI, Bridge protocols, Switching in
+the LAN environment. Frame Relay: FR specification and design, VoFR: Performance and
+Design considerations, Advantages and disadvantages of FR. Common WAN Protocol:
+ATM: Many faces of ATM, ATM protocol operation (ATM cell and Transmission), ATM
+networking basics, Theory of operations, BISDN protocol reference model, PHY layer, ATM
+layer (Protocol model), ATM layer and cell (Definition), Traffic descriptors and parameters,
+Traffic and Congestion control defined, AAL Protocol model, Traffic contract and QoS, User
+plane overview, Control plane AAL, Management plane, Sub-DS3 ATM, ATM public
+services. Common Protocols and Interfaces in the Upper Layers(TCP/IP): Background
+(Routing protocols), TCP/IP suite, Network layer (Internetwork layer), Transport layer,
+Application layer, Addressing and routing design. Mature Packet Switched Protocol: ITU
+Recommendation X.25, User connectivity, Theory of Operation, Network layer functions,
+X.75 Internetworking protocol, switched multimegabit data service (SMDS), SMDS and
+IEEE 802.6, Subscriber Interface and Access protocol, Addressing and Traffic control.
+Requirements Definition: User requirements, Traffic sizing, Traffic characteristics,
+Protocols, Time and Delay considerations, Connectivity, Availability, Reliability and
+Maintainability, Service aspects, Budget constraints.
+
+Sockets and Socket Address structures, Concept of Zombies, Daemon Processes, Super
+servers, Concurrent versus Iterative servers, Protocol Independence, Error Handling: Wrapper
+functions, OSI Model, Unix standards. TCP Connection establishment and Termination, Port
+Numbers and Concurrent Servers, Protocol Usage by common Internet Applications. UDP
+Communication Semantics, UDP Echo Server, Echo Client working, Protocol Usage by
+Common Internet Applications. Sockets Address Structures, Byte ordering & M anipulation
+Functions, TCP Socket System Calls, TCP Client-Server E.g., I/O Multiplexing, Signal
+Handling in Concurrent Servers. Socket Options, Elementary Names Address Conversions,
+Ipv4 and Ipv6 Interoperability.
+
+Network performance modeling- Creating traffic matrix, design tools, components of design
+tools, types of design projects. Technology Comparisons- Generic packet switching networks
+characteristics, private vs.public networking, Business aspects of packet, frame and cell
+switching services, High speed LAN protocols comparison, Application performance needs,
+Throughput, burstiness, response time and delay tolerance, selecting service provider, vendor,
+service levels etc. Access Network Design- N/W design layers, Access N/W design, access
+n/w capacity, Backbone n/w design, Backbone segments, backbone capacity, topologies,
+Tuning the network, securing the network, Design for network security. Documentation and
+network management- Documentation, network management, SNMP, RMON Network
+Optimization- Network optimization theory: Goals of network optimization, Measurements
+for network optimization, optimization tools, optimization techniques.
+
+Overview-Symmetric Ciphers: Classical Encryption Techniques Symmetric Ciphers: Block
+ciphers and the Data Encryption Standards, Public key Encryption and Hash Functions:
+Public-Key Cryptography and RSA Network Security Practices: Authentication applicationsElectronic Mail Security, Network Security Practices: IP Security-Web Security System
+Security: Intruders-Malicious Software-Firewalls
+

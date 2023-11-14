@@ -1,0 +1,30 @@
+systems_engineering
+Counter({'cos421': 40, 'cos415': 37, 'cos341': 36, 'cos413': 32, 'cos331': 29, 'cos464': 26, 'cos203': 25, 'cos242': 25, 'cos438': 25, 'cos333': 24, 'cos105': 23, 'cos463': 22, 'cos232': 21, 'cos442': 21, 'cos201': 20, 'cos435': 20, 'cos231': 17, 'cos441': 17, 'cos202': 16, 'cos311': 16, 'cos437': 16, 'cos471': 16, 'cos204': 15, 'cos101': 14, 'cos417': 14, 'cos419': 14, 'cos434': 14, 'cos436': 14, 'cos411': 13, 'cos461': 13, 'cos103': 12, 'cos104': 12, 'cos304': 12, 'cos452': 12, 'cos102': 11, 'cos351': 11, 'cos444': 11, 'cos337': 10, 'cos431': 10, 'cos439': 7, 'cos335': 6, 'cos382': 6})
+
+software_engineering
+Counter({'cos421': 55, 'cos413': 36, 'cos435': 36, 'cos415': 34, 'cos463': 33, 'cos333': 31, 'cos437': 27, 'cos461': 27, 'cos341': 25, 'cos105': 23, 'cos444': 23, 'cos202': 22, 'cos464': 22, 'cos201': 20, 'cos102': 19, 'cos104': 19, 'cos436': 19, 'cos331': 18, 'cos471': 18, 'cos203': 17, 'cos304': 17, 'cos438': 17, 'cos434': 16, 'cos232': 15, 'cos419': 15, 'cos441': 14, 'cos242': 13, 'cos411': 12, 'cos231': 11, 'cos101': 10, 'cos335': 10, 'cos351': 10, 'cos417': 9, 'cos452': 9, 'cos103': 6, 'cos204': 6, 'cos311': 6, 'cos337': 6, 'cos431': 6, 'cos439': 6, 'cos442': 4, 'cos382': 3})
+
+artificial_intelligence
+Counter({'cos421': 57, 'cos438': 41, 'cos461': 36, 'cos413': 31, 'cos341': 29, 'cos463': 28, 'cos105': 27, 'cos434': 27, 'cos436': 27, 'cos333': 25, 'cos415': 25, 'cos201': 23, 'cos337': 23, 'cos435': 23, 'cos464': 23, 'cos444': 22, 'cos102': 20, 'cos104': 20, 'cos202': 20, 'cos242': 20, 'cos203': 18, 'cos231': 18, 'cos232': 18, 'cos471': 18, 'cos331': 17, 'cos335': 17, 'cos437': 17, 'cos441': 17, 'cos304': 16, 'cos442': 16, 'cos419': 14, 'cos101': 12, 'cos411': 12, 'cos103': 11, 'cos311': 11, 'cos439': 10, 'cos417': 9, 'cos431': 9, 'cos351': 8, 'cos204': 6, 'cos382': 3, 'cos452': 3})
+
+theoretical_cs
+Counter({'cos421': 48, 'cos415': 30, 'cos463': 26, 'cos341': 23, 'cos413': 22, 'cos434': 22, 'cos333': 21, 'cos461': 21, 'cos201': 20, 'cos471': 20, 'cos105': 18, 'cos411': 18, 'cos419': 18, 'cos444': 18, 'cos464': 17, 'cos104': 16, 'cos202': 16, 'cos331': 16, 'cos435': 15, 'cos438': 15, 'cos231': 14, 'cos417': 13, 'cos436': 13, 'cos437': 13, 'cos102': 12, 'cos203': 12, 'cos335': 12, 'cos101': 11, 'cos232': 11, 'cos242': 11, 'cos304': 11, 'cos441': 10, 'cos452': 9, 'cos311': 8, 'cos103': 6, 'cos431': 6, 'cos351': 5, 'cos442': 4, 'cos439': 3, 'cos204': 2, 'cos337': 1, 'cos382': 1})
+
+computer_networks
+Counter({'cos421': 50, 'cos441': 36, 'cos415': 32, 'cos242': 31, 'cos442': 28, 'cos461': 28, 'cos341': 25, 'cos464': 25, 'cos105': 24, 'cos201': 23, 'cos444': 22, 'cos331': 20, 'cos104': 18, 'cos413': 18, 'cos471': 18, 'cos232': 17, 'cos333': 17, 'cos463': 17, 'cos102': 16, 'cos417': 16, 'cos436': 16, 'cos437': 16, 'cos304': 15, 'cos438': 15, 'cos203': 14, 'cos435': 14, 'cos419': 13, 'cos311': 12, 'cos434': 12, 'cos103': 11, 'cos335': 11, 'cos202': 10, 'cos231': 10, 'cos452': 10, 'cos101': 9, 'cos337': 8, 'cos351': 8, 'cos411': 8, 'cos439': 6, 'cos431': 5, 'cos204': 4, 'cos382': 1})
+
+
+{'cos421': AI, 'cos438': AI, 'cos415': SysEng, 'cos341': SysEng, 'cos413': SoftE, 'cos435': SoftE, 'cos441': CN, 'cos461': AI, 'cos463': SoftE, 'cos242': CN, 'cos333': SoftE, 'cos331': SysEng, 'cos442': CN, 'cos105': AI, 'cos434': AI, 'cos436': AI, 'cos437': SoftE, 'cos464': SysEng, 'cos203': SysEng, 'cos201': AI/CN, 'cos337': AI, 'cos444': SoftE, 'cos202': SoftE, 'cos232': SysEng, 'cos102': AI, 'cos104': AI, 'cos471': TCS, 'cos231': AI, 'cos411': TCS, 'cos419': TCS, 'cos304': SoftE, 'cos335': AI, 'cos311': SysEng, 'cos417': CN, 'cos204': SysEng, 'cos101': SysEng, 'cos103': SysEng, 'cos452': SysEng, 'cos351': SysEng, 'cos431': SysEng, 'cos439': AI, 'cos382': SysEng}
+
+Counter({'cos421': 57, 'cos438': 41, 'cos415': 37, 'cos341': 36, 'cos413': 36, 'cos435': 36, 'cos441': 36, 'cos461': 36, 'cos463': 33, 'cos242': 31, 'cos333': 31, 'cos331': 29, 'cos442': 28, 'cos105': 27, 'cos434': 27, 'cos436': 27, 'cos437': 27, 'cos464': 26, 'cos203': 25, 'cos201': 23, 'cos337': 23, 'cos444': 23, 'cos202': 22, 'cos232': 21, 'cos102': 20, 'cos104': 20, 'cos471': 20, 'cos231': 18, 'cos411': 18, 'cos419': 18, 'cos304': 17, 'cos335': 17, 'cos311': 16, 'cos417': 16, 'cos204': 15, 'cos101': 14, 'cos103': 12, 'cos452': 12, 'cos351': 11, 'cos431': 10, 'cos439': 10, 'cos382': 6})
+
+
+
+
+
+
+
+
+
+
+

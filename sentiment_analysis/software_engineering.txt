@@ -1,0 +1,98 @@
+Software Quality Assurance
+Advanced Computer Graphics
+Advanced Topics in Computer Network
+Object Oriented Programming
+Internet Technology
+Object Oriented Software Engineering
+Software Project Management
+Database Systems
+Advanced Software Engineering
+Electronic Commerce Technologies
+Design of Complex Software Systems
+SAP and/or Other ERPSS
+
+
+Quality and the quality system, standards and procedures, Technical activities, components,
+Continuous Improvement, Software Tasks, Management responsibility, Quality System,
+Contract Review, Document Control, Product identification and trace ability.
+
+Prerequisites Knowledge of C programming language.
+Reflection models: Texture and models, texture and environment mapping, advanced ray
+tracing, radiosity method, volume rendering, advanced modeling techniques, simulation and
+animation.
+
+Procedural programming and its limitations. Software development methodology:
+Fundamental design concepts and principles; structured design; testing and debugging
+strategies; test case design; programming environments; testing and debugging tools. Basic
+concepts and formal methods of Object Oriented Programming (OOP). Study of the features
+of a popular Object Oriented Programming Language such as JAVA, Visual Basic and C++.
+Applications of OOP in systems software development.
+
+Introduction to Internet, standards and specifications; survey of contemporary internet
+technologies; Current Internet tools; Designing and publishing a web server; www
+programmed markup languages: Using alternative protocols in www, Adding multimedia
+features to www; Server side programming, client programming and database programming
+for the web; Security and Privacy.
+
+Structured approach to system construction: SSADM/SADT, An overview of object oriented
+systems development & Life cycle Various object oriented methodologies, Introduction to
+UML. Object oriented analysis, Use cases, Object classification, relationships, attributes.
+Object oriented design, Design axioms, Designing classes, Layering the software design:-
+data access layer, User interface layer, Control/business logic layer, UML, Examples on:
+Behavioral models, Structural models, Architectural models from real world problems.
+Object-Oriented Programming.
+
+Software management renaissance: Conventional Software Management, Evolution of
+Software Economics, Improving Software Economics; The Old Way and the New. A
+software management process framework: Live-Cycle Phases, Artifacts of the Process,
+Model-Based Software Architectures, Work Flows of the Process, Check Points of the
+Process . Software management disciplines; (I) Iterative Process Planning, Project
+Organizations and Responsibilities, Process Automation. Software management disciplines;
+(II) Project Control and Process Instrumentation – Tailoring the Process Risk management:
+Introduction, Risk, Categories of risk, A framework for dealing with risk, Risk Identification,
+Risk assessment, Risk Planning, Risk Management, Evaluating risks to schedule, Applying
+the PERT Technique, Monte Carlo Simulation, Critical Chain Concepts
+
+A brief introduction to database concepts: File systems and database, and the relational
+database model; design concepts and implementation: entity relationship (E-R) modeling
+normalization of database tables and structured query language; database design and
+implementation. Transaction management and concurrency control and distributed database
+management systems, database: privacy, security, failure and recovery. Object-oriented
+database design, client/server systems, data warehouse, data mining, databases in electronic
+commerce, web database development and database administration
+
+Formal methods: data invariant, constructive specification, formal methods guideline, formal
+specification, languages, logic operators, operations, pre- and post- conditions, sequences, set
+operators, Z-schemas, Z-notation. Cleanroom Software Engineering: black box specification,
+box structure, certification, cleanroom strategy, clear-box specification, design refinement,
+functional specification, proof of correctness, state-box specification, statistical use testing,
+stimulus, test probability distribution, verification. Component-Based Software Engineering:
+adaptation, CBSE activities, CBSE process, characterization functions, classification,
+component-based development, component types, composition, domain engineering,
+ecomonics of reuse, qualification, structure points. Client/Server Software Engineering:
+analysis modelling, architectural design, architecture, components, configuration options,
+CORBA, database design, data distribution, function distribution, middleware, ORS, testing.
+
+Introduction: The Sociology and Psychology of Electronic Commerce, Building recognizing,
+managing and making use of online communities in web based environment, theories of
+online presence and cooperation, a guide to e-commerce in general; how to differentiate ecommerce today from e-commerce yesterday, current problems of e-commerce and
+interesting solutions and approaches to these problems, a guide to knowledge commerce,
+understanding knowledge and commodity and as a process, and representing it in web-based
+environment, web architecture: structural design of e-commerce systems, claimed server
+architecture, two-, three-tier design, server farms, scalability, integration of legacy systems,
+Java Beans, enterprise Java Beans, and Java server pages, particular problems posed by 24/7
+operations and open user community; case-interchange; exchanging data over the internet.
+XLM, style sheet, document type definition, metadata and document discovery, interchange
+of processes using WSDL and SOAP; usability: user-interfaces designs for websites, use of
+human-computer interaction methodologies in evaluating user-interfaces; electronic
+payments; technologies that support the processing of electronic payments, characteristics
+and properties of electronic payment systems; mass personalization and the virtual
+customer’s automation of the customer-relationship, use of data to customize the web
+experience, cookies and their risks, rule-based filtering, implicit profiling, collaborative
+filtering.
+
+Designing new computational systems and the software that drives them is both hard and
+interesting. One important aspect of computer science research, often called experiment
+systems research, revolves around such design activities. Research in this style seeks
+advanced understanding of and our ability to create, general computer systems that support
+the development and use of more domain specific applications.

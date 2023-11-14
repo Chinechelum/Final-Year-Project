@@ -1,0 +1,65 @@
+Theory of Computation
+Database Systems
+Electronic Commerce Technologies
+Internet Technology
+Operations Research
+Compiler Design and Construction
+Designing Complex Software Systems
+Computer Performance Evaluation
+
+
+Formal languages, Chomsky hierarchy, formal computation and machine model, finite
+automata, pushdown automata, Turning machines, Church’s Thesis, Recursively enumerable
+sets. Diagonal arguments. Reducibility, complexity classes.
+
+A brief introduction to database concepts: File systems and database, and the relational
+database model; design concepts and implementation: entity relationship (E-R) modeling
+normalization of database tables and structured query language; database design and
+implementation. Transaction management and concurrency control and distributed database
+management systems, database: privacy, security, failure and recovery. Object-oriented
+database design, client/server systems, data warehouse, data mining, databases in electronic
+commerce, web database development and database administration.
+
+Introduction: The Sociology and Psychology of Electronic Commerce, Building recognizing,
+managing and making use of online communities in web based environment, theories of
+online presence and cooperation, a guide to e-commerce in general; how to differentiate ecommerce today from e-commerce yesterday, current problems of e-commerce and
+interesting solutions and approaches to these problems, a guide to knowledge commerce,
+understanding knowledge and commodity and as a process, and representing it in web-based
+environment, web architecture: structural design of e-commerce systems, claimed server
+architecture, two-, three-tier design, server farms, scalability, integration of legacy systems,
+Java Beans, enterprise Java Beans, and Java server pages, particular problems posed by 24/7
+operations and open user community; case-interchange; exchanging data over the internet.
+XLM, style sheet, document type definition, metadata and document discovery, interchange
+of processes using WSDL and SOAP; usability: user-interfaces designs for websites, use of
+human-computer interaction methodologies in evaluating user-interfaces; electronic
+payments; technologies that support the processing of electronic payments, characteristics
+and properties of electronic payment systems; mass personalization and the virtual
+customer’s automation of the customer-relationship, use of data to customize the web
+experience, cookies and their risks, rule-based filtering, implicit profiling, collaborative
+filtering.
+
+Introduction to Internet, standards and specifications; survey of contemporary internet
+technologies; Current Internet tools; Designing and publishing a web server; www
+programmed markup languages: Using alternative protocols in www, Adding multimedia
+features to www; Server side programming, client programming and database programming
+for the web; Security and Privacy.
+
+Introduction to Operations research. Treatment of some of these topics and the applications of
+computer in their solution: Decision Theory, Game Theory, Inventory Control, Linear
+Programming Problems (Simplex Method of Solution), Transportation Problems, Assignment
+problems, Project/Network Analysis, Forecasting, Queuing Theory, Simulation.
+
+Anatomy of a compiler, lexical analysis (scanning): syntax analysis (parsing): syntax-directed
+translation; semantic analysis, intermediate code generation; code generation and
+optimization. Advanced topics include garbage collection; dynamic data structures, points
+analysis, aliasing; code scheduling, pipelining; dependence testing; loop level optimization
+superscalar optimization; profile-driven optimization, debugging support; incremental
+parsing; type inference; advanced parsing algorithms; practical attribute evaluation;
+functional in-lining and partial evaluation.
+
+Designing new computational systems and the software that drives them is both hard and
+interesting. One important aspect of computer science research, often called experiment
+systems research, revolves around such design activities. Research in this style seeks
+advanced understanding of and our ability to create, general computer systems that support
+the development and use of more domain specific applications.
+

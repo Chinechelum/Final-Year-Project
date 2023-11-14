@@ -1,0 +1,88 @@
+Advanced Computer Architecture
+Digital Signal Processing
+Parallel and Distributed Computing
+Control Systems and Robotics
+Switching and Fault Diagnosing
+Real Time Operating Systems
+Embedded Systems
+
+
+Design of advanced computers for parallel processing; emphasis on the overall structure;
+interconnection networks; including single-stage and multi-stage structures; shared memory
+and message passing architectures; control-flow and demand-driven programming;
+multithreaded architectures; fine-grain and coarse-grain parallelism; SIMD and MIMD;
+processor designs for parallel operation.
+
+Introduction; brief review of analogue and digital signal processing systems, discrete time
+linear time-invariant signal processing systems; design of finite impulse response digital
+filters, introduction to z-transforms and infinite Impulse response type discrete time filters
+design of infinite impulse response type digital filters using analogue filter approximations;
+digital processing of analogue signals and other data, introduction to the discrete Fourier
+transform.
+
+Introduction: Forms of Computing; Monolithic, Distributed, Parallel, Cooperative,
+Computational demands of parallel processing, Flynn’s classification, Terminology. Parallel
+computer architectures: Classification, Interconnection networks, Vector computers,
+Shared memory parallel computers, Cache coherence, Distributed shared memory parallel
+computers, Message passing parallel computers, Cluster of workstations. Parallel
+programming models: Shared memory model, Message passing model - Synchronous and
+Asynchronous message passing models, Leader-Election algorithm, Breadth-First Search.
+Shortest Paths, Broadcast and Converge cast, Data Parallel model. Parallel algorithms:
+Models of parallel computation including PRAM - CRCW, CREW, ERCW, EREW models,
+Design and analysis of Parallel algorithms: Automatic vs. Manual Parallelization, Understand
+the Problem and the Program, Partitioning, Communications, Synchronization, Data
+Dependencies, Load Balancing, Granularity, I/O, Limits and Costs of Parallel Programming,
+Performance. Analysis and Tuning, Parallel Examples, Array Processing Matrix
+multiplication, Sorting, Searching, Merging, Minimum spanning tree, Prime numbers.
+Distributed computing: Introduction to Distributed Programming - System ModelsArchitectural models - Client-server model, Peer-to-peer model- Variations of the above
+models - Distributed computing paradigms, Inter process communication - The API for the
+Internet protocols, External data representation and marshalling, Group communication -
+Case study: inter process communication in UNIX, Distributed file systems. Distributed
+programming algorithms: Fundamental issues and concepts - Synchronization, Mutual
+Exclusion, Termination Detection, Clocks, Event ordering, Locking - Distributed Computing
+Tools & Technologies (CORBA, JavaRMI, Web Services). Emerging areas of parallel and
+distributed systems: Grid computing, Peer-to-peer systems, Overlay networks, Edge
+computing and Ad-hoc networks.
+
+Introduction: Definitions and history of robotics, Sensors and actuators,Types of actuator,
+types of sensor, Robotic systems. Robot design, biologically inspired robotics, kinematics,
+dynamics, locomotion, control.Autonomous mobile robotic systems. Benefits, problems,
+suitable tasks, machine learning, navigation. Simulation, Simulation of a robot and its
+environment. Assessment of simulation accuracy. Model acquisition, and validation.
+
+Switching Theory: Advanced topics applicable to the design of large scale digital systems.
+Asynchronous and speed independent circuits, static and dynamic hazards; use of race
+condition. Algorithmic State Machine design methods. Concepts of state assignment.
+Implementation with MSI, LSI and Programmable Logic. Design of Linked Machines.
+Register Transfer Language description of processor control algorithms. Reed-Mueller
+Algebraic descriptions. Fault Diagnosing: Fundamentals of testing theory and practice for
+complex VLSI designs. The objectives are to give the student the ability to solve a wide
+range of non-trivial testing problems using practical and cost effective techniques. Students
+will also learn to create test automation tools on their own. Topics covered include, Fault
+Modeling, Fault Simulation, Automatic Test Generation in Combinational and Sequential
+Circuits, Functional Testing of Microprocessors, ALUs and Memories, Design for
+Testability, Synthesis for Testability, Built-In Self-Test and Diagnosis.
+
+Basic Real time concepts, Computer hardware, Language issues, Software life Cycle Real
+time specifications: Design techniques, Real-time kernels, Intertask communication and
+synchronization, Real –time memory Management Multiprocessing systems: Multiprocessing
+Systems - Hardware/Software integration- Real time Applications.
+
+Introduction: - What is an embedded system? Why is it special? What types of processor are
+used? What are the other peculiarities? Processors for embedded systems: - 8 bit processors
+8085, 8051 and PIC 18FXX: - Architecture and instruction set. (already covered in
+microprocessor) 16 bit: - 8086 32 bit : - 80386 architecture and instruction set, ARM based
+processor architecture and instruction set. Operating systems for embedded systems: - Real
+time operating systems Issues: - I/O programming: Synchronization, transfer rate and
+latency. Polled I/O issues. Interrupt driven I/O. ISR. Response time interrupt controller.
+Software interrupts and exceptions. Buffering of data and queuing of interrupt requests.
+Concurrency control: Foreground/Background systems, Thread state and serialization,
+latency, prevention of interrupt overruns. Concurrent execution of threads, context switch,
+non-preemptive multitasking, preemptive multitasking. Critical sections:- disableing
+interrupts, disabling ask switch, spin lock, mutex and semaphore. Scheduling in Embedded
+Systems: Conventional scheduling, deadline driven scheduling, rate monotonic scheduling,
+deadlock, watchdog timer. Memory Management: Static allocation, dynamic allocation.
+Recursion and dynamic allocation. shared memory, reentrant functions. Boot up and System
+initialization. 80x86 microprocessor with a C compiler (suited for RTOS) and uC/OS RTOS
+may be used for practicals. Some real embedded application shall be taken up for practical.
+

@@ -1,0 +1,146 @@
+Design of Intelligent System
+Theory of Computation
+Database Systems
+Control Systems and Robotics
+Internet Technology
+Agent Technology
+Introduction to Quantum Computing
+Human Computer Interaction
+Expert Systems
+Bioinformatics
+Machine Learning
+Neural Networks
+Decision Support Systems
+
+
+Artificial Intelligence: An overview, Intelligent Systems: Evolution of the concept.
+Intelligent Agents: How agent should act, Structure of intelligent agents, Environments.
+Problem Solving: Solving problems by searching, Informed search methods, Game playing.
+Knowledge and Reasoning: A knowledge based agent, The wumpus world environment,
+Representation, Reasoning, Logic, Proportional logic, First order logic: Syntax and
+Semantics, Extensions and Notational variation, Using first order logic. Building a
+Knowledge Base: Properties of good and bad knowledge base, Knowledge engineering,
+General ontology. Interfacing First Order Logic: Interface rules involving quantifiers, An
+example proof, Forward and backward chaining, Completeness. Acting Logically: Planning,
+Practical planning: Practical planners, Hierarchical decomposition, Conditional planning.
+Uncertain Knowledge and Reasoning: Uncertainty, Representing knowledge in an
+uncertain domain, The semantics of belief networks, Inference in belief networks. Learning:
+Learning from observations: General model of learning agents, Inductive learning, learning
+decision trees, Learning in neural and belief networks: Introduction to neural networks,
+Perceptrons, Multilayer feedforward network, Application of ANN, Reinforcement learning:
+Passive learning in a known environment, Generalization in reinforcement learning, Genetic
+algorithms Agents that Communicate: Communication as action, Types of communicating
+agents, A formal grammar for a subset of English Expert system: Introduction to expert
+system, Representing and using domain knowledge, Expert system shells, Explanation,
+Knowledge acquisition Applications: Natural language processing, Perception, Robotics
+
+Formal languages, Chomsky hierarchy, formal computation and machine model, finite
+automata, pushdown automata, Turning machines, Church’s Thesis, Recursively enumerable
+sets. Diagonal arguments. Reducibility, complexity classes.
+
+A brief introduction to database concepts: File systems and database, and the relational
+database model; design concepts and implementation: entity relationship (E-R) modeling
+normalization of database tables and structured query language; database design and
+implementation. Transaction management and concurrency control and distributed database
+management systems, database: privacy, security, failure and recovery. Object-oriented
+database design, client/server systems, data warehouse, data mining, databases in electronic
+commerce, web database development and database administration
+
+Introduction to Internet, standards and specifications; survey of contemporary internet
+technologies; Current Internet tools; Designing and publishing a web server; www
+programmed markup languages: Using alternative protocols in www, Adding multimedia
+features to www; Server side programming, client programming and database programming
+for the web; Security and Privacy.
+
+Introduction to software agents: definition, attributes, different classes of software agents,
+uses of agents. Agents and the user experience: user‟s interaction with agents, agents from
+direct manipulation to delegation, interface agents, designing agents, direct manipulation
+versus agents. Agents for learning and intelligent assistance: agents for information
+sharing and coordination, agents that reduce work and information overload, agents for
+cooperative learning, the M System. Agent communication, collaboration and mobility:
+agent oriented programming, Agent Communication Languages, agent based frameworks,
+communicative actions for artificial agents, Mobile agents. Multiagent systems: objectives
+and objections, multiagent interactions, communication, Agent security issues, Black Box
+Security. The FIPA model for software agents: Agent Lifecycle Management, Message
+Transport, Message Structure, Inter-agent Interaction Protocols, Ontologies, Security. Agent
+Programming: overview of Java based programming environments- ABLE, AgentBuilder,
+Aglets, FIPA-OS, Gossip, JADE, JATLite, Jess, Voyager, ZEUS etc; Other non-java
+environments; Programming static and mobile agents in any one such environment.
+
+The theory of quantum information and quantum computation; classical information theory,
+compression of quantum information, transmission of quantum information through noisy
+channels, quantum enter element, quantum cryptography, classical complexity theory,
+quantum complexity; efficient quantum algorithms; quantum error-correcting codes, faulttolerant quantum algorithms; quantum error-correcting codes, fault-tolerant quantum
+computation; and physical implementations of quantum computations.
+
+Positive and negative effects of the computers and ICT on human beings and societies.
+Computing as a profession, organization using computers, sociological impacts of Computers
+individual and computers, computer as audit tool, computers in banking, computer based
+information systems and telecommunications, companies in consultancy servers, design and
+construction, education, government insurance, stock-brokerage, legal and medical
+professions.
+
+Review of Artificial Intelligence and its place in experts system. Introduction to expert
+systems and expert support system. Characteristics of experts systems: knowledge-based
+systems. Types of expert systems.
+
+Study of forensics; principles and practice of identification; pattern-matching of recognition,
+computer forensics: pattern recognition, data mining, machine learning algorithms and
+visualization, sequence alignment, application to biological sciences, DNA-gene finding,
+genome assembly, drug design, drug discovery, protein structure alignment, protein structure prediction, prediction of gene expression and protein – protein interaction, genome-wide
+association studies and the modeling of evolution.
+
+Overview and Introduction to Bayes Decision Theory: Machine intelligence and applications,
+pattern recognition concepts classification, regression, feature selection, supervised learning
+class conditional probability distributions, Examples of classifiers bayes optimal classifier
+and error, learning classification approaches. Linear machines: General and linear
+discriminants, decision regions, single layer neural network, linear separability, general
+gradient descent, perceptron learning algorithm, mean square criterion and widrow-Hoff
+learning algorithm; multi-Layer perceptrons: two-layers universal approximators,
+backpropagation learning, on-line, off-line error surface, important parameters. Learning
+decision trees: Inference model, general domains, symbolic decision trees, consistency,
+learning trees from training examples entropy, mutual information, ID3 algorithm criterion,
+C4.5 algorithm continuous test nodes, confidence, pruning, learning with incomplete data.
+Instance-based Learning: Nearest neighbor classification, k-nearest neighbor, nearest
+neighbor error probability. Machine learning concepts and limitations: Learning theory,
+formal model of the learnable, sample complexity, learning in zero-bayes and realizable case,
+VC-dimension, fundamental algorithm independent concepts, hypothesis class, target class,
+inductive bias, occam's razor, empirical risk, limitations of inference machines,
+approximation and estimation errors, Tradeoff. Machine learning assessment and
+Improvement: Statistical model selection, structural risk minimization, bootstrapping,
+bagging, boosting. Support Vector Machines: Margin of a classifier, dual perceptron
+algorithm, learning nonlinear hypotheses with perceptron kernel functions, implicit nonlinear feature space, theory, zero-Bayes, realizable infinite hypothesis class, finite covering,
+margin-based bounds on risk, maximal margin classifier.
+
+Characteristics of Neural Networks, Historical development of Neural Network principles,
+Artificial Neural Networks: Terminology, Models of Neuron, Topology, Basic Learning
+Laws. Activation and synaptic dynamics: Introduction, Activation Dynamic Models ,
+Synaptic Dynamic Model, Learning Models, Learning Methods. Functional units of ANN for
+pattern recognition tasks: Pattern Recognition Problem, Basic Functional Units, Pattern
+Recognition Tasks by the Functional Units, Feed forward neural networks: introduction,
+Analysis of Pattern Association Networks, Analysis of Pattern classification Networks,
+Analysis of Pattern Mapping Networks. Feedback neural networks: Introduction, Analysis of
+Linear Auto Associative FF Networks, Analysis of Pattern Storage Networks. Competitive
+learning neural networks: Introduction, Components of a Competitive Learning Network,
+Analysis of Feedback Layer for Different Output Functions, Analysis of Pattern Clustering
+Networks, Analysis of Feed Mapping Network. Applications of neural systems: Applications
+of Neural Algorithms and Systems character Recognition, Expert Systems Applications,
+Neural Network Control Applications, Spatio - Temporal Pattern Recognition and other
+Applications.
+
+Overview of different types of decision making: strategic, tactical and operational.
+Considerationof organisational structures. Mapping of databases, MIS, EIS, KBS, expert
+systems, OR modelling systems and simulation, decision analytic systems onto activities
+within an organisation. Extension to other ’non organisational’ areas of decision making, e.g.
+military and emergency management. Studies of human cognition in relation to decision
+making and the assimilation of information. Cultural issues. Implications for design of
+decision making support. Communication issues. Normative, descriptive and prescriptive
+analysis: requisite modelling. Contrast with recognition primed decision tools. Database,
+MIS, EIS, KBS, Belief nets, data mining. OR modelling tools: simulation and optimisation.
+History, design, implementation: benefits and pitfalls. Risk assessment. Decision analysis and
+strategic decision support. Group decision support systems and decision conferencing.
+Intelligent decision support systems: tools and applications. Cutting-edge decision support
+technologies. History, design, implementation: benefits and pitfalls. Quality assurance and
+validity of decision support. RODOS: A decision support system for nuclear emergencies. In
+depth study of a system in which almost all of the techniques come together into one system.
+Discussion of design. Implementation issues.
